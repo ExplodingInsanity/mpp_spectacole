@@ -5,4 +5,13 @@
 
     <util:properties id="jbdcProps" location="classpath:server.properties" />
 
+    <bean class="org.springframework.remoting.rmi.RmiServiceExporter">
+        <property name="serviceName" value="Spectacole"/>
+        <property name="service" ref="serviceImpl"/>
+        <property name="serviceInterface" value="IService"/>
+        <property name="servicePort" value="1099"/>
+    </bean>
+    <bean id="serviceImpl" class="Service">
+    </bean>
+
 </beans>
