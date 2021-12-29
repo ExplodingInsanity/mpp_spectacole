@@ -1,6 +1,3 @@
-package com.example.domain;
-
-import com.example.domain.utils.Converter;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
@@ -24,9 +21,10 @@ public class Spectacol implements Serializable {
     private Date data_spectacol;
     private String titlu;
     private Float pret_bilet;
-    @Convert(converter = Converter.class)
-    private List<Integer> lista_locuri_vandute;
-    private Float sold;
-//    @ManyToOne
-//    private Room room;
+    private Integer capacitate;
+    String lista_locuri_vandute;
+
+    public void setLista_locuri_vandute(String lista_locuri_vandute) {
+        this.lista_locuri_vandute = lista_locuri_vandute;
+    }
 }

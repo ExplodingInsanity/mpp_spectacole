@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class name="Vanzare"
+           table="vanzari">
+        <id name="id" column="id">
+            <generator class="increment" />
+        </id>
+        <property
+                name="data_vanzare"
+                column="data_vanzare"/>
+        <property
+                name="nr_bilete_vandute"
+                column="nr_bilete_vandute"/>
+        <property
+                name="pret_bilet"
+                column="pret_bilet"/>
+        <property
+                name="lista_locuri_vandute"
+                column="lista_locuri_vandute"/>
+        <property
+                name="suma"
+                column="suma"/>
+    </class>
+</hibernate-mapping>

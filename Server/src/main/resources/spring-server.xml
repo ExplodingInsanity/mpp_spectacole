@@ -3,7 +3,14 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:util="http://www.springframework.org/schema/util"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util.xsd">
 
-    <util:properties id="jbdcProps" location="classpath:server.properties" />
+    <util:properties id="jdbcProps" location="classpath:server.properties" />
+
+    <bean id="spectacolRepository" class="SpectacolRepository">
+        <constructor-arg ref="jdbcProps"/>
+    </bean>
+    <bean id="vanzareRepository" class="VanzareRepository">
+        <constructor-arg ref="jdbcProps"/>
+    </bean>
 
     <bean class="org.springframework.remoting.rmi.RmiServiceExporter">
         <property name="serviceName" value="Spectacole"/>
@@ -12,6 +19,8 @@
         <property name="servicePort" value="1099"/>
     </bean>
     <bean id="serviceImpl" class="Service">
+        <constructor-arg ref="spectacolRepository"></constructor-arg>
+        <constructor-arg ref="vanzareRepository"></constructor-arg>
     </bean>
 
 </beans>
