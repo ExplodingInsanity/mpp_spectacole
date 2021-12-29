@@ -1,3 +1,7 @@
 rootProject.name = 'ppd_spectacole'
 include 'Domain'
 include 'Persistence'
+include 'Server'
+include 'Services'
+include 'Client'
+
