@@ -23,5 +23,8 @@
         <property
                 name="suma"
                 column="suma"/>
+        <property
+                name="id_spectacol"
+                column="id_spectacol"/>
     </class>
 </hibernate-mapping>

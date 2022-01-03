@@ -20,5 +20,8 @@
         <property
                 name="lista_locuri_vandute"
                 column="lista_locuri_vandute"/>
+        <property
+                name="sold"
+                column="sold"/>
     </class>
 </hibernate-mapping>

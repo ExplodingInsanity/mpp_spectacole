@@ -12,7 +12,7 @@ public class VanzareRepository {
         connection = dbUtils.getInstance().getConnection(jdbcProps);
     }
 
-    public Vanzare Add(Vanzare entity) {
+    public synchronized Vanzare Add(Vanzare entity) {
         try(Session session = dbUtils.getInstance().getSessionFactory().openSession()) {
             Transaction tr = session.beginTransaction();
             session.save(entity);
@@ -27,11 +27,20 @@ public class VanzareRepository {
         }
     }
 
-    public void DeleteAll() {
+    public List<Vanzare> FindBySpectacolId(Integer id) {
+        try(Session session = dbUtils.getInstance().getSessionFactory().openSession()) {
+            return session.createQuery("From Vanzare where id_spectacol="+id, Vanzare.class).stream().collect(Collectors.toList());
+        }
+    }
+
+    public synchronized void DeleteAll() {
         try(Session session = dbUtils.getInstance().getSessionFactory().openSession()) {
             Transaction tr = session.beginTransaction();
             session.createQuery("Delete from Vanzare").executeUpdate();
             tr.commit();
+        }
+        catch(Exception e){
+            System.out.println("EROARE "+e.getMessage());
         }
     }
 

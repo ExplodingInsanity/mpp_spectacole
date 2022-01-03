@@ -18,10 +18,10 @@ public class Vanzare implements Serializable {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
+    private Integer id_spectacol;
     private LocalDateTime data_vanzare;
     private Integer nr_bilete_vandute;
     private Float pret_bilet;
     private String lista_locuri_vandute;
     private Float suma;
-
 }

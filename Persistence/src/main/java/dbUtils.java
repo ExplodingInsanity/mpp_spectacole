@@ -34,6 +34,7 @@ public class dbUtils {
             System.err.println("Exception "+e);
             StandardServiceRegistryBuilder.destroy( registry );
         }
+        System.out.println("RETURNEZ NULL");
         return null;
     }
 

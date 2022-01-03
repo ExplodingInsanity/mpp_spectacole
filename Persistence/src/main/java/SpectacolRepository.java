@@ -4,16 +4,20 @@ import org.hibernate.Transaction;
 import java.sql.Connection;
 import java.util.List;
 import java.util.Properties;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import java.util.stream.Collectors;
 
 public class SpectacolRepository {
+//    private static final Logger logger = LogManager.getLogger(SpectacolRepository.class);
     Connection connection;
     public SpectacolRepository(Properties jdbcProps) {
+//        logger.error("SALUT");
         connection = dbUtils.getInstance().getConnection(jdbcProps);
     }
 
-    public Spectacol Add(Spectacol entity) {
-        if(entity.lista_locuri_vandute == null || entity.lista_locuri_vandute.isBlank()) entity.setLista_locuri_vandute("0000000000000000000000000");
+    public synchronized Spectacol Add(Spectacol entity) {
+        if(entity.lista_locuri_vandute == null || entity.lista_locuri_vandute.isBlank()) entity.setLista_locuri_vandute(domainUtils.locuriSpectacol);
         try(Session session = dbUtils.getInstance().getSessionFactory().openSession()) {
             Transaction tr = session.beginTransaction();
             session.save(entity);
@@ -22,8 +26,8 @@ public class SpectacolRepository {
         }
     }
 
-    public Spectacol Update(Spectacol entity) {
-        if(entity.lista_locuri_vandute == null || entity.lista_locuri_vandute.isBlank()) entity.setLista_locuri_vandute("0000000000000000000000000");
+    public synchronized Spectacol Update(Spectacol entity) {
+        if(entity.lista_locuri_vandute == null || entity.lista_locuri_vandute.isBlank()) entity.setLista_locuri_vandute(domainUtils.locuriSpectacol);
         try(Session session = dbUtils.getInstance().getSessionFactory().openSession()) {
             Transaction tr = session.beginTransaction();
             session.update(entity);
@@ -46,7 +50,7 @@ public class SpectacolRepository {
         }
     }
 
-    public void DeleteAll() {
+    public synchronized void DeleteAll() {
         try(Session session = dbUtils.getInstance().getSessionFactory().openSession()) {
             Transaction tr = session.beginTransaction();
             session.createQuery("Delete from Spectacol").executeUpdate();

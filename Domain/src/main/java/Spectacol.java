@@ -23,6 +23,7 @@ public class Spectacol implements Serializable {
     private Float pret_bilet;
     private Integer capacitate;
     String lista_locuri_vandute;
+    private Float sold;
 
     public void setLista_locuri_vandute(String lista_locuri_vandute) {
         this.lista_locuri_vandute = lista_locuri_vandute;

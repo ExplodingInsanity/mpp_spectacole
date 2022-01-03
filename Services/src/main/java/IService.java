@@ -1,6 +1,7 @@
 import java.util.List;
+import java.util.concurrent.Future;
 
 public interface IService {
     List<Spectacol> getSpectacole();
-    boolean cumparaLocuri(int spectacolId, String locuri);
+    Boolean cumparaLocuri(int spectacolId, String locuri);
 }
