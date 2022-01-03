@@ -7,5 +7,7 @@ import java.util.concurrent.Future;
 @AllArgsConstructor
 @Data
 public class BooleanResult implements Serializable {
-    public Future<Boolean> result;
+    public Boolean result;
+    public Boolean stopping;
+
 }
