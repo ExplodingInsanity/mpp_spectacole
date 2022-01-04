@@ -1,208 +1,512 @@
-[ERROR] 2022-01-03 23:14:53.018 [Thread-5] SpectacolRepository - 0.0
+[ERROR] 2022-01-04 13:07:41.785 [Thread-5] SpectacolRepository - 0.0
 corect
-[ERROR] 2022-01-03 23:14:53.307 [Thread-5] SpectacolRepository - 0.0
+[ERROR] 2022-01-04 13:07:41.965 [Thread-5] SpectacolRepository - 0.0
 corect
-[ERROR] 2022-01-03 23:14:53.473 [Thread-5] SpectacolRepository - 0.0
+[ERROR] 2022-01-04 13:07:42.118 [Thread-5] SpectacolRepository - 0.0
 corect
-[ERROR] 2022-01-03 23:14:53.474 [Thread-5] SpectacolRepository - 
+[ERROR] 2022-01-04 13:07:42.118 [Thread-5] SpectacolRepository - 
 
 
 
-[ERROR] 2022-01-03 23:14:55.868 [Thread-5] SpectacolRepository - 0.0
+[ERROR] 2022-01-04 13:07:44.617 [Thread-5] SpectacolRepository - 0.0
 corect
-[ERROR] 2022-01-03 23:14:56.161 [Thread-5] SpectacolRepository - 0.0
+[ERROR] 2022-01-04 13:07:44.848 [Thread-5] SpectacolRepository - 0.0
 corect
-[ERROR] 2022-01-03 23:14:56.344 [Thread-5] SpectacolRepository - 0.0
+[ERROR] 2022-01-04 13:07:45.041 [Thread-5] SpectacolRepository - 0.0
 corect
-[ERROR] 2022-01-03 23:14:56.344 [Thread-5] SpectacolRepository - 
+[ERROR] 2022-01-04 13:07:45.041 [Thread-5] SpectacolRepository - 
 
 
 
-[ERROR] 2022-01-03 23:14:58.616 [Thread-5] SpectacolRepository - 0.0
+[ERROR] 2022-01-04 13:07:47.342 [Thread-5] SpectacolRepository - 0.0
 corect
-[ERROR] 2022-01-03 23:14:58.739 [Thread-5] SpectacolRepository - 0.0
+[ERROR] 2022-01-04 13:07:47.496 [Thread-5] SpectacolRepository - 0.0
 corect
-[ERROR] 2022-01-03 23:14:58.864 [Thread-5] SpectacolRepository - 1000.0
-Vanzare(id=1, id_spectacol=2, data_vanzare=2022-01-03T23:14:58.260759, nr_bilete_vandute=5, pret_bilet=200.0, lista_locuri_vandute=27 14 53 91 31, suma=1000.0)
+[ERROR] 2022-01-04 13:07:47.634 [Thread-5] SpectacolRepository - 0.0
 corect
-[ERROR] 2022-01-03 23:14:58.864 [Thread-5] SpectacolRepository - 
+[ERROR] 2022-01-04 13:07:47.634 [Thread-5] SpectacolRepository - 
 
 
 
-[ERROR] 2022-01-03 23:15:01.091 [Thread-5] SpectacolRepository - 0.0
+[ERROR] 2022-01-04 13:07:49.899 [Thread-5] SpectacolRepository - 0.0
 corect
-[ERROR] 2022-01-03 23:15:01.204 [Thread-5] SpectacolRepository - 0.0
+[ERROR] 2022-01-04 13:07:50.037 [Thread-5] SpectacolRepository - 0.0
 corect
-[ERROR] 2022-01-03 23:15:01.315 [Thread-5] SpectacolRepository - 1400.0
-Vanzare(id=1, id_spectacol=2, data_vanzare=2022-01-03T23:14:58.260759, nr_bilete_vandute=5, pret_bilet=200.0, lista_locuri_vandute=27 14 53 91 31, suma=1000.0)
-Vanzare(id=2, id_spectacol=2, data_vanzare=2022-01-03T23:15:00.250957, nr_bilete_vandute=2, pret_bilet=200.0, lista_locuri_vandute=92 43, suma=400.0)
+[ERROR] 2022-01-04 13:07:50.197 [Thread-5] SpectacolRepository - 600.0
+Vanzare(id=1, id_spectacol=3, data_vanzare=2022-01-04T13:07:48.065653, nr_bilete_vandute=4, pret_bilet=150.0, lista_locuri_vandute=21 18 56 44, suma=600.0)
 corect
-[ERROR] 2022-01-03 23:15:01.315 [Thread-5] SpectacolRepository - 
+[ERROR] 2022-01-04 13:07:50.197 [Thread-5] SpectacolRepository - 
 
 
 
-[ERROR] 2022-01-03 23:15:03.537 [Thread-5] SpectacolRepository - 0.0
+[ERROR] 2022-01-04 13:07:52.431 [Thread-5] SpectacolRepository - 0.0
 corect
-[ERROR] 2022-01-03 23:15:03.648 [Thread-5] SpectacolRepository - 0.0
+[ERROR] 2022-01-04 13:07:52.665 [Thread-5] SpectacolRepository - 200.0
+Vanzare(id=2, id_spectacol=2, data_vanzare=2022-01-04T13:07:50.138241, nr_bilete_vandute=1, pret_bilet=200.0, lista_locuri_vandute=77, suma=200.0)
 corect
-[ERROR] 2022-01-03 23:15:03.759 [Thread-5] SpectacolRepository - 1600.0
-Vanzare(id=1, id_spectacol=2, data_vanzare=2022-01-03T23:14:58.260759, nr_bilete_vandute=5, pret_bilet=200.0, lista_locuri_vandute=27 14 53 91 31, suma=1000.0)
-Vanzare(id=2, id_spectacol=2, data_vanzare=2022-01-03T23:15:00.250957, nr_bilete_vandute=2, pret_bilet=200.0, lista_locuri_vandute=92 43, suma=400.0)
-Vanzare(id=3, id_spectacol=2, data_vanzare=2022-01-03T23:15:02.240014, nr_bilete_vandute=1, pret_bilet=200.0, lista_locuri_vandute=74, suma=200.0)
+[ERROR] 2022-01-04 13:07:52.776 [Thread-5] SpectacolRepository - 900.0
+Vanzare(id=1, id_spectacol=3, data_vanzare=2022-01-04T13:07:48.065653, nr_bilete_vandute=4, pret_bilet=150.0, lista_locuri_vandute=21 18 56 44, suma=600.0)
+Vanzare(id=3, id_spectacol=3, data_vanzare=2022-01-04T13:07:52.068417, nr_bilete_vandute=2, pret_bilet=150.0, lista_locuri_vandute=94 32, suma=300.0)
 corect
-[ERROR] 2022-01-03 23:15:03.759 [Thread-5] SpectacolRepository - 
+[ERROR] 2022-01-04 13:07:52.776 [Thread-5] SpectacolRepository - 
 
 
 
-[ERROR] 2022-01-03 23:15:06.225 [Thread-5] SpectacolRepository - 0.0
+[ERROR] 2022-01-04 13:07:55.117 [Thread-5] SpectacolRepository - 200.0
+Vanzare(id=2, id_spectacol=2, data_vanzare=2022-01-04T13:07:50.138241, nr_bilete_vandute=1, pret_bilet=200.0, lista_locuri_vandute=77, suma=200.0)
 corect
-[ERROR] 2022-01-03 23:15:06.500 [Thread-5] SpectacolRepository - 1600.0
-Vanzare(id=1, id_spectacol=2, data_vanzare=2022-01-03T23:14:58.260759, nr_bilete_vandute=5, pret_bilet=200.0, lista_locuri_vandute=27 14 53 91 31, suma=1000.0)
-Vanzare(id=2, id_spectacol=2, data_vanzare=2022-01-03T23:15:00.250957, nr_bilete_vandute=2, pret_bilet=200.0, lista_locuri_vandute=92 43, suma=400.0)
-Vanzare(id=3, id_spectacol=2, data_vanzare=2022-01-03T23:15:02.240014, nr_bilete_vandute=1, pret_bilet=200.0, lista_locuri_vandute=74, suma=200.0)
+[ERROR] 2022-01-04 13:07:55.346 [Thread-5] SpectacolRepository - 900.0
+Vanzare(id=1, id_spectacol=3, data_vanzare=2022-01-04T13:07:48.065653, nr_bilete_vandute=4, pret_bilet=150.0, lista_locuri_vandute=21 18 56 44, suma=600.0)
+Vanzare(id=3, id_spectacol=3, data_vanzare=2022-01-04T13:07:52.068417, nr_bilete_vandute=2, pret_bilet=150.0, lista_locuri_vandute=94 32, suma=300.0)
 corect
-[ERROR] 2022-01-03 23:15:06.754 [Thread-5] SpectacolRepository - 100.0
-Vanzare(id=4, id_spectacol=1, data_vanzare=2022-01-03T23:15:04.228795, nr_bilete_vandute=1, pret_bilet=100.0, lista_locuri_vandute=13, suma=100.0)
+[ERROR] 2022-01-04 13:07:55.463 [Thread-5] SpectacolRepository - 300.0
+Vanzare(id=4, id_spectacol=1, data_vanzare=2022-01-04T13:07:54.067712, nr_bilete_vandute=3, pret_bilet=100.0, lista_locuri_vandute=80 73 39, suma=300.0)
 corect
-[ERROR] 2022-01-03 23:15:06.755 [Thread-5] SpectacolRepository - 
+[ERROR] 2022-01-04 13:07:55.463 [Thread-5] SpectacolRepository - 
 
 
 
-[ERROR] 2022-01-03 23:15:08.978 [Thread-5] SpectacolRepository - 0.0
+[ERROR] 2022-01-04 13:07:57.685 [Thread-5] SpectacolRepository - 200.0
+Vanzare(id=2, id_spectacol=2, data_vanzare=2022-01-04T13:07:50.138241, nr_bilete_vandute=1, pret_bilet=200.0, lista_locuri_vandute=77, suma=200.0)
 corect
-[ERROR] 2022-01-03 23:15:09.097 [Thread-5] SpectacolRepository - 100.0
-Vanzare(id=4, id_spectacol=1, data_vanzare=2022-01-03T23:15:04.228795, nr_bilete_vandute=1, pret_bilet=100.0, lista_locuri_vandute=13, suma=100.0)
+[ERROR] 2022-01-04 13:07:57.793 [Thread-5] SpectacolRepository - 900.0
+Vanzare(id=1, id_spectacol=3, data_vanzare=2022-01-04T13:07:48.065653, nr_bilete_vandute=4, pret_bilet=150.0, lista_locuri_vandute=21 18 56 44, suma=600.0)
+Vanzare(id=3, id_spectacol=3, data_vanzare=2022-01-04T13:07:52.068417, nr_bilete_vandute=2, pret_bilet=150.0, lista_locuri_vandute=94 32, suma=300.0)
 corect
-[ERROR] 2022-01-03 23:15:09.222 [Thread-5] SpectacolRepository - 2400.0
-Vanzare(id=1, id_spectacol=2, data_vanzare=2022-01-03T23:14:58.260759, nr_bilete_vandute=5, pret_bilet=200.0, lista_locuri_vandute=27 14 53 91 31, suma=1000.0)
-Vanzare(id=2, id_spectacol=2, data_vanzare=2022-01-03T23:15:00.250957, nr_bilete_vandute=2, pret_bilet=200.0, lista_locuri_vandute=92 43, suma=400.0)
-Vanzare(id=3, id_spectacol=2, data_vanzare=2022-01-03T23:15:02.240014, nr_bilete_vandute=1, pret_bilet=200.0, lista_locuri_vandute=74, suma=200.0)
-Vanzare(id=5, id_spectacol=2, data_vanzare=2022-01-03T23:15:08.388493, nr_bilete_vandute=4, pret_bilet=200.0, lista_locuri_vandute=85 81 10 90, suma=800.0)
+[ERROR] 2022-01-04 13:07:57.904 [Thread-5] SpectacolRepository - 800.0
+Vanzare(id=4, id_spectacol=1, data_vanzare=2022-01-04T13:07:54.067712, nr_bilete_vandute=3, pret_bilet=100.0, lista_locuri_vandute=80 73 39, suma=300.0)
+Vanzare(id=5, id_spectacol=1, data_vanzare=2022-01-04T13:07:56.065631, nr_bilete_vandute=5, pret_bilet=100.0, lista_locuri_vandute=4 47 44 95 1, suma=500.0)
 corect
-[ERROR] 2022-01-03 23:15:09.222 [Thread-5] SpectacolRepository - 
+[ERROR] 2022-01-04 13:07:57.904 [Thread-5] SpectacolRepository - 
 
 
 
-[ERROR] 2022-01-03 23:15:11.452 [Thread-5] SpectacolRepository - 0.0
+[ERROR] 2022-01-04 13:08:00.114 [Thread-5] SpectacolRepository - 200.0
+Vanzare(id=2, id_spectacol=2, data_vanzare=2022-01-04T13:07:50.138241, nr_bilete_vandute=1, pret_bilet=200.0, lista_locuri_vandute=77, suma=200.0)
 corect
-[ERROR] 2022-01-03 23:15:11.561 [Thread-5] SpectacolRepository - 100.0
-Vanzare(id=4, id_spectacol=1, data_vanzare=2022-01-03T23:15:04.228795, nr_bilete_vandute=1, pret_bilet=100.0, lista_locuri_vandute=13, suma=100.0)
+[ERROR] 2022-01-04 13:08:00.222 [Thread-5] SpectacolRepository - 900.0
+Vanzare(id=1, id_spectacol=3, data_vanzare=2022-01-04T13:07:48.065653, nr_bilete_vandute=4, pret_bilet=150.0, lista_locuri_vandute=21 18 56 44, suma=600.0)
+Vanzare(id=3, id_spectacol=3, data_vanzare=2022-01-04T13:07:52.068417, nr_bilete_vandute=2, pret_bilet=150.0, lista_locuri_vandute=94 32, suma=300.0)
 corect
-[ERROR] 2022-01-03 23:15:11.670 [Thread-5] SpectacolRepository - 2400.0
-Vanzare(id=1, id_spectacol=2, data_vanzare=2022-01-03T23:14:58.260759, nr_bilete_vandute=5, pret_bilet=200.0, lista_locuri_vandute=27 14 53 91 31, suma=1000.0)
-Vanzare(id=2, id_spectacol=2, data_vanzare=2022-01-03T23:15:00.250957, nr_bilete_vandute=2, pret_bilet=200.0, lista_locuri_vandute=92 43, suma=400.0)
-Vanzare(id=3, id_spectacol=2, data_vanzare=2022-01-03T23:15:02.240014, nr_bilete_vandute=1, pret_bilet=200.0, lista_locuri_vandute=74, suma=200.0)
-Vanzare(id=5, id_spectacol=2, data_vanzare=2022-01-03T23:15:08.388493, nr_bilete_vandute=4, pret_bilet=200.0, lista_locuri_vandute=85 81 10 90, suma=800.0)
+[ERROR] 2022-01-04 13:08:00.328 [Thread-5] SpectacolRepository - 800.0
+Vanzare(id=4, id_spectacol=1, data_vanzare=2022-01-04T13:07:54.067712, nr_bilete_vandute=3, pret_bilet=100.0, lista_locuri_vandute=80 73 39, suma=300.0)
+Vanzare(id=5, id_spectacol=1, data_vanzare=2022-01-04T13:07:56.065631, nr_bilete_vandute=5, pret_bilet=100.0, lista_locuri_vandute=4 47 44 95 1, suma=500.0)
 corect
-[ERROR] 2022-01-03 23:15:11.670 [Thread-5] SpectacolRepository -
+[ERROR] 2022-01-04 13:08:00.328 [Thread-5] SpectacolRepository - 
 
 
 
-[ERROR] 2022-01-03 23:15:13.895 [Thread-5] SpectacolRepository - 0.0
+[ERROR] 2022-01-04 13:08:02.542 [Thread-5] SpectacolRepository - 900.0
+Vanzare(id=1, id_spectacol=3, data_vanzare=2022-01-04T13:07:48.065653, nr_bilete_vandute=4, pret_bilet=150.0, lista_locuri_vandute=21 18 56 44, suma=600.0)
+Vanzare(id=3, id_spectacol=3, data_vanzare=2022-01-04T13:07:52.068417, nr_bilete_vandute=2, pret_bilet=150.0, lista_locuri_vandute=94 32, suma=300.0)
 corect
-[ERROR] 2022-01-03 23:15:14.000 [Thread-5] SpectacolRepository - 2400.0
-Vanzare(id=1, id_spectacol=2, data_vanzare=2022-01-03T23:14:58.260759, nr_bilete_vandute=5, pret_bilet=200.0, lista_locuri_vandute=27 14 53 91 31, suma=1000.0)
-Vanzare(id=2, id_spectacol=2, data_vanzare=2022-01-03T23:15:00.250957, nr_bilete_vandute=2, pret_bilet=200.0, lista_locuri_vandute=92 43, suma=400.0)
-Vanzare(id=3, id_spectacol=2, data_vanzare=2022-01-03T23:15:02.240014, nr_bilete_vandute=1, pret_bilet=200.0, lista_locuri_vandute=74, suma=200.0)
-Vanzare(id=5, id_spectacol=2, data_vanzare=2022-01-03T23:15:08.388493, nr_bilete_vandute=4, pret_bilet=200.0, lista_locuri_vandute=85 81 10 90, suma=800.0)
+[ERROR] 2022-01-04 13:08:02.644 [Thread-5] SpectacolRepository - 800.0
+Vanzare(id=4, id_spectacol=1, data_vanzare=2022-01-04T13:07:54.067712, nr_bilete_vandute=3, pret_bilet=100.0, lista_locuri_vandute=80 73 39, suma=300.0)
+Vanzare(id=5, id_spectacol=1, data_vanzare=2022-01-04T13:07:56.065631, nr_bilete_vandute=5, pret_bilet=100.0, lista_locuri_vandute=4 47 44 95 1, suma=500.0)
 corect
-[ERROR] 2022-01-03 23:15:14.111 [Thread-5] SpectacolRepository - 500.0
-Vanzare(id=4, id_spectacol=1, data_vanzare=2022-01-03T23:15:04.228795, nr_bilete_vandute=1, pret_bilet=100.0, lista_locuri_vandute=13, suma=100.0)
-Vanzare(id=6, id_spectacol=1, data_vanzare=2022-01-03T23:15:12.226365, nr_bilete_vandute=4, pret_bilet=100.0, lista_locuri_vandute=32 80 78 86, suma=400.0)
+[ERROR] 2022-01-04 13:08:02.745 [Thread-5] SpectacolRepository - 800.0
+Vanzare(id=2, id_spectacol=2, data_vanzare=2022-01-04T13:07:50.138241, nr_bilete_vandute=1, pret_bilet=200.0, lista_locuri_vandute=77, suma=200.0)
+Vanzare(id=6, id_spectacol=2, data_vanzare=2022-01-04T13:08:02.054734, nr_bilete_vandute=3, pret_bilet=200.0, lista_locuri_vandute=52 80 78, suma=600.0)
 corect
-[ERROR] 2022-01-03 23:15:14.111 [Thread-5] SpectacolRepository -
+[ERROR] 2022-01-04 13:08:02.745 [Thread-5] SpectacolRepository - 
 
 
 
-[ERROR] 2022-01-03 23:15:16.447 [Thread-5] SpectacolRepository - 0.0
-Vanzare(id=8, id_spectacol=3, data_vanzare=2022-01-03T23:15:16.230468, nr_bilete_vandute=3, pret_bilet=150.0, lista_locuri_vandute=22 19 7, suma=450.0)
-incorect,0.000000!=450.000000
-0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000!=0000000100000000000100100000000000000000000000000000000000000000000000000000000000000000000000000000
-[ERROR] 2022-01-03 23:15:16.666 [Thread-5] SpectacolRepository - 2400.0
-Vanzare(id=1, id_spectacol=2, data_vanzare=2022-01-03T23:14:58.260759, nr_bilete_vandute=5, pret_bilet=200.0, lista_locuri_vandute=27 14 53 91 31, suma=1000.0)
-Vanzare(id=2, id_spectacol=2, data_vanzare=2022-01-03T23:15:00.250957, nr_bilete_vandute=2, pret_bilet=200.0, lista_locuri_vandute=92 43, suma=400.0)
-Vanzare(id=3, id_spectacol=2, data_vanzare=2022-01-03T23:15:02.240014, nr_bilete_vandute=1, pret_bilet=200.0, lista_locuri_vandute=74, suma=200.0)
-Vanzare(id=5, id_spectacol=2, data_vanzare=2022-01-03T23:15:08.388493, nr_bilete_vandute=4, pret_bilet=200.0, lista_locuri_vandute=85 81 10 90, suma=800.0)
+[ERROR] 2022-01-04 13:08:04.946 [Thread-5] SpectacolRepository - 900.0
+Vanzare(id=1, id_spectacol=3, data_vanzare=2022-01-04T13:07:48.065653, nr_bilete_vandute=4, pret_bilet=150.0, lista_locuri_vandute=21 18 56 44, suma=600.0)
+Vanzare(id=3, id_spectacol=3, data_vanzare=2022-01-04T13:07:52.068417, nr_bilete_vandute=2, pret_bilet=150.0, lista_locuri_vandute=94 32, suma=300.0)
 corect
-[ERROR] 2022-01-03 23:15:16.776 [Thread-5] SpectacolRepository - 700.0
-Vanzare(id=4, id_spectacol=1, data_vanzare=2022-01-03T23:15:04.228795, nr_bilete_vandute=1, pret_bilet=100.0, lista_locuri_vandute=13, suma=100.0)
-Vanzare(id=6, id_spectacol=1, data_vanzare=2022-01-03T23:15:12.226365, nr_bilete_vandute=4, pret_bilet=100.0, lista_locuri_vandute=32 80 78 86, suma=400.0)
-Vanzare(id=7, id_spectacol=1, data_vanzare=2022-01-03T23:15:14.336293, nr_bilete_vandute=2, pret_bilet=100.0, lista_locuri_vandute=46 25, suma=200.0)
+[ERROR] 2022-01-04 13:08:05.049 [Thread-5] SpectacolRepository - 800.0
+Vanzare(id=2, id_spectacol=2, data_vanzare=2022-01-04T13:07:50.138241, nr_bilete_vandute=1, pret_bilet=200.0, lista_locuri_vandute=77, suma=200.0)
+Vanzare(id=6, id_spectacol=2, data_vanzare=2022-01-04T13:08:02.054734, nr_bilete_vandute=3, pret_bilet=200.0, lista_locuri_vandute=52 80 78, suma=600.0)
 corect
-[ERROR] 2022-01-03 23:15:16.777 [Thread-5] SpectacolRepository - 
+[ERROR] 2022-01-04 13:08:05.151 [Thread-5] SpectacolRepository - 900.0
+Vanzare(id=4, id_spectacol=1, data_vanzare=2022-01-04T13:07:54.067712, nr_bilete_vandute=3, pret_bilet=100.0, lista_locuri_vandute=80 73 39, suma=300.0)
+Vanzare(id=5, id_spectacol=1, data_vanzare=2022-01-04T13:07:56.065631, nr_bilete_vandute=5, pret_bilet=100.0, lista_locuri_vandute=4 47 44 95 1, suma=500.0)
+Vanzare(id=7, id_spectacol=1, data_vanzare=2022-01-04T13:08:04.046918, nr_bilete_vandute=1, pret_bilet=100.0, lista_locuri_vandute=5, suma=100.0)
+corect
+[ERROR] 2022-01-04 13:08:05.151 [Thread-5] SpectacolRepository - 
 
 
 
-[ERROR] 2022-01-03 23:15:18.984 [Thread-5] SpectacolRepository - 2400.0
-Vanzare(id=1, id_spectacol=2, data_vanzare=2022-01-03T23:14:58.260759, nr_bilete_vandute=5, pret_bilet=200.0, lista_locuri_vandute=27 14 53 91 31, suma=1000.0)
-Vanzare(id=2, id_spectacol=2, data_vanzare=2022-01-03T23:15:00.250957, nr_bilete_vandute=2, pret_bilet=200.0, lista_locuri_vandute=92 43, suma=400.0)
-Vanzare(id=3, id_spectacol=2, data_vanzare=2022-01-03T23:15:02.240014, nr_bilete_vandute=1, pret_bilet=200.0, lista_locuri_vandute=74, suma=200.0)
-Vanzare(id=5, id_spectacol=2, data_vanzare=2022-01-03T23:15:08.388493, nr_bilete_vandute=4, pret_bilet=200.0, lista_locuri_vandute=85 81 10 90, suma=800.0)
+[ERROR] 2022-01-04 13:08:07.353 [Thread-5] SpectacolRepository - 900.0
+Vanzare(id=1, id_spectacol=3, data_vanzare=2022-01-04T13:07:48.065653, nr_bilete_vandute=4, pret_bilet=150.0, lista_locuri_vandute=21 18 56 44, suma=600.0)
+Vanzare(id=3, id_spectacol=3, data_vanzare=2022-01-04T13:07:52.068417, nr_bilete_vandute=2, pret_bilet=150.0, lista_locuri_vandute=94 32, suma=300.0)
 corect
-[ERROR] 2022-01-03 23:15:19.088 [Thread-5] SpectacolRepository - 700.0
-Vanzare(id=4, id_spectacol=1, data_vanzare=2022-01-03T23:15:04.228795, nr_bilete_vandute=1, pret_bilet=100.0, lista_locuri_vandute=13, suma=100.0)
-Vanzare(id=6, id_spectacol=1, data_vanzare=2022-01-03T23:15:12.226365, nr_bilete_vandute=4, pret_bilet=100.0, lista_locuri_vandute=32 80 78 86, suma=400.0)
-Vanzare(id=7, id_spectacol=1, data_vanzare=2022-01-03T23:15:14.336293, nr_bilete_vandute=2, pret_bilet=100.0, lista_locuri_vandute=46 25, suma=200.0)
+[ERROR] 2022-01-04 13:08:07.458 [Thread-5] SpectacolRepository - 800.0
+Vanzare(id=2, id_spectacol=2, data_vanzare=2022-01-04T13:07:50.138241, nr_bilete_vandute=1, pret_bilet=200.0, lista_locuri_vandute=77, suma=200.0)
+Vanzare(id=6, id_spectacol=2, data_vanzare=2022-01-04T13:08:02.054734, nr_bilete_vandute=3, pret_bilet=200.0, lista_locuri_vandute=52 80 78, suma=600.0)
 corect
-[ERROR] 2022-01-03 23:15:19.200 [Thread-5] SpectacolRepository - 1200.0
-Vanzare(id=8, id_spectacol=3, data_vanzare=2022-01-03T23:15:16.230468, nr_bilete_vandute=3, pret_bilet=150.0, lista_locuri_vandute=22 19 7, suma=450.0)
-Vanzare(id=9, id_spectacol=3, data_vanzare=2022-01-03T23:15:18.231995, nr_bilete_vandute=5, pret_bilet=150.0, lista_locuri_vandute=5 28 67 60 10, suma=750.0)
+[ERROR] 2022-01-04 13:08:07.558 [Thread-5] SpectacolRepository - 900.0
+Vanzare(id=4, id_spectacol=1, data_vanzare=2022-01-04T13:07:54.067712, nr_bilete_vandute=3, pret_bilet=100.0, lista_locuri_vandute=80 73 39, suma=300.0)
+Vanzare(id=5, id_spectacol=1, data_vanzare=2022-01-04T13:07:56.065631, nr_bilete_vandute=5, pret_bilet=100.0, lista_locuri_vandute=4 47 44 95 1, suma=500.0)
+Vanzare(id=7, id_spectacol=1, data_vanzare=2022-01-04T13:08:04.046918, nr_bilete_vandute=1, pret_bilet=100.0, lista_locuri_vandute=5, suma=100.0)
 corect
-[ERROR] 2022-01-03 23:15:19.200 [Thread-5] SpectacolRepository - 
+[ERROR] 2022-01-04 13:08:07.558 [Thread-5] SpectacolRepository - 
 
 
 
-[ERROR] 2022-01-03 23:15:21.410 [Thread-5] SpectacolRepository - 2400.0
-Vanzare(id=1, id_spectacol=2, data_vanzare=2022-01-03T23:14:58.260759, nr_bilete_vandute=5, pret_bilet=200.0, lista_locuri_vandute=27 14 53 91 31, suma=1000.0)
-Vanzare(id=2, id_spectacol=2, data_vanzare=2022-01-03T23:15:00.250957, nr_bilete_vandute=2, pret_bilet=200.0, lista_locuri_vandute=92 43, suma=400.0)
-Vanzare(id=3, id_spectacol=2, data_vanzare=2022-01-03T23:15:02.240014, nr_bilete_vandute=1, pret_bilet=200.0, lista_locuri_vandute=74, suma=200.0)
-Vanzare(id=5, id_spectacol=2, data_vanzare=2022-01-03T23:15:08.388493, nr_bilete_vandute=4, pret_bilet=200.0, lista_locuri_vandute=85 81 10 90, suma=800.0)
+[ERROR] 2022-01-04 13:08:09.760 [Thread-5] SpectacolRepository - 900.0
+Vanzare(id=1, id_spectacol=3, data_vanzare=2022-01-04T13:07:48.065653, nr_bilete_vandute=4, pret_bilet=150.0, lista_locuri_vandute=21 18 56 44, suma=600.0)
+Vanzare(id=3, id_spectacol=3, data_vanzare=2022-01-04T13:07:52.068417, nr_bilete_vandute=2, pret_bilet=150.0, lista_locuri_vandute=94 32, suma=300.0)
 corect
-[ERROR] 2022-01-03 23:15:21.528 [Thread-5] SpectacolRepository - 700.0
-Vanzare(id=4, id_spectacol=1, data_vanzare=2022-01-03T23:15:04.228795, nr_bilete_vandute=1, pret_bilet=100.0, lista_locuri_vandute=13, suma=100.0)
-Vanzare(id=6, id_spectacol=1, data_vanzare=2022-01-03T23:15:12.226365, nr_bilete_vandute=4, pret_bilet=100.0, lista_locuri_vandute=32 80 78 86, suma=400.0)
-Vanzare(id=7, id_spectacol=1, data_vanzare=2022-01-03T23:15:14.336293, nr_bilete_vandute=2, pret_bilet=100.0, lista_locuri_vandute=46 25, suma=200.0)
+[ERROR] 2022-01-04 13:08:09.861 [Thread-5] SpectacolRepository - 800.0
+Vanzare(id=2, id_spectacol=2, data_vanzare=2022-01-04T13:07:50.138241, nr_bilete_vandute=1, pret_bilet=200.0, lista_locuri_vandute=77, suma=200.0)
+Vanzare(id=6, id_spectacol=2, data_vanzare=2022-01-04T13:08:02.054734, nr_bilete_vandute=3, pret_bilet=200.0, lista_locuri_vandute=52 80 78, suma=600.0)
 corect
-[ERROR] 2022-01-03 23:15:21.642 [Thread-5] SpectacolRepository - 1800.0
-Vanzare(id=8, id_spectacol=3, data_vanzare=2022-01-03T23:15:16.230468, nr_bilete_vandute=3, pret_bilet=150.0, lista_locuri_vandute=22 19 7, suma=450.0)
-Vanzare(id=9, id_spectacol=3, data_vanzare=2022-01-03T23:15:18.231995, nr_bilete_vandute=5, pret_bilet=150.0, lista_locuri_vandute=5 28 67 60 10, suma=750.0)
-Vanzare(id=10, id_spectacol=3, data_vanzare=2022-01-03T23:15:20.226286, nr_bilete_vandute=4, pret_bilet=150.0, lista_locuri_vandute=75 71 24 3, suma=600.0)
+[ERROR] 2022-01-04 13:08:09.969 [Thread-5] SpectacolRepository - 1000.0
+Vanzare(id=4, id_spectacol=1, data_vanzare=2022-01-04T13:07:54.067712, nr_bilete_vandute=3, pret_bilet=100.0, lista_locuri_vandute=80 73 39, suma=300.0)
+Vanzare(id=5, id_spectacol=1, data_vanzare=2022-01-04T13:07:56.065631, nr_bilete_vandute=5, pret_bilet=100.0, lista_locuri_vandute=4 47 44 95 1, suma=500.0)
+Vanzare(id=7, id_spectacol=1, data_vanzare=2022-01-04T13:08:04.046918, nr_bilete_vandute=1, pret_bilet=100.0, lista_locuri_vandute=5, suma=100.0)
+Vanzare(id=8, id_spectacol=1, data_vanzare=2022-01-04T13:08:08.040915, nr_bilete_vandute=1, pret_bilet=100.0, lista_locuri_vandute=19, suma=100.0)
 corect
-[ERROR] 2022-01-03 23:15:21.642 [Thread-5] SpectacolRepository - 
+[ERROR] 2022-01-04 13:08:09.970 [Thread-5] SpectacolRepository - 
 
 
 
-[ERROR] 2022-01-03 23:15:23.918 [Thread-5] SpectacolRepository - 2400.0
-Vanzare(id=1, id_spectacol=2, data_vanzare=2022-01-03T23:14:58.260759, nr_bilete_vandute=5, pret_bilet=200.0, lista_locuri_vandute=27 14 53 91 31, suma=1000.0)
-Vanzare(id=2, id_spectacol=2, data_vanzare=2022-01-03T23:15:00.250957, nr_bilete_vandute=2, pret_bilet=200.0, lista_locuri_vandute=92 43, suma=400.0)
-Vanzare(id=3, id_spectacol=2, data_vanzare=2022-01-03T23:15:02.240014, nr_bilete_vandute=1, pret_bilet=200.0, lista_locuri_vandute=74, suma=200.0)
-Vanzare(id=5, id_spectacol=2, data_vanzare=2022-01-03T23:15:08.388493, nr_bilete_vandute=4, pret_bilet=200.0, lista_locuri_vandute=85 81 10 90, suma=800.0)
+[ERROR] 2022-01-04 13:08:12.167 [Thread-5] SpectacolRepository - 800.0
+Vanzare(id=2, id_spectacol=2, data_vanzare=2022-01-04T13:07:50.138241, nr_bilete_vandute=1, pret_bilet=200.0, lista_locuri_vandute=77, suma=200.0)
+Vanzare(id=6, id_spectacol=2, data_vanzare=2022-01-04T13:08:02.054734, nr_bilete_vandute=3, pret_bilet=200.0, lista_locuri_vandute=52 80 78, suma=600.0)
 corect
-[ERROR] 2022-01-03 23:15:24.021 [Thread-5] SpectacolRepository - 700.0
-Vanzare(id=4, id_spectacol=1, data_vanzare=2022-01-03T23:15:04.228795, nr_bilete_vandute=1, pret_bilet=100.0, lista_locuri_vandute=13, suma=100.0)
-Vanzare(id=6, id_spectacol=1, data_vanzare=2022-01-03T23:15:12.226365, nr_bilete_vandute=4, pret_bilet=100.0, lista_locuri_vandute=32 80 78 86, suma=400.0)
-Vanzare(id=7, id_spectacol=1, data_vanzare=2022-01-03T23:15:14.336293, nr_bilete_vandute=2, pret_bilet=100.0, lista_locuri_vandute=46 25, suma=200.0)
+[ERROR] 2022-01-04 13:08:12.267 [Thread-5] SpectacolRepository - 1000.0
+Vanzare(id=4, id_spectacol=1, data_vanzare=2022-01-04T13:07:54.067712, nr_bilete_vandute=3, pret_bilet=100.0, lista_locuri_vandute=80 73 39, suma=300.0)
+Vanzare(id=5, id_spectacol=1, data_vanzare=2022-01-04T13:07:56.065631, nr_bilete_vandute=5, pret_bilet=100.0, lista_locuri_vandute=4 47 44 95 1, suma=500.0)
+Vanzare(id=7, id_spectacol=1, data_vanzare=2022-01-04T13:08:04.046918, nr_bilete_vandute=1, pret_bilet=100.0, lista_locuri_vandute=5, suma=100.0)
+Vanzare(id=8, id_spectacol=1, data_vanzare=2022-01-04T13:08:08.040915, nr_bilete_vandute=1, pret_bilet=100.0, lista_locuri_vandute=19, suma=100.0)
 corect
-[ERROR] 2022-01-03 23:15:24.128 [Thread-5] SpectacolRepository - 1800.0
-Vanzare(id=8, id_spectacol=3, data_vanzare=2022-01-03T23:15:16.230468, nr_bilete_vandute=3, pret_bilet=150.0, lista_locuri_vandute=22 19 7, suma=450.0)
-Vanzare(id=9, id_spectacol=3, data_vanzare=2022-01-03T23:15:18.231995, nr_bilete_vandute=5, pret_bilet=150.0, lista_locuri_vandute=5 28 67 60 10, suma=750.0)
-Vanzare(id=10, id_spectacol=3, data_vanzare=2022-01-03T23:15:20.226286, nr_bilete_vandute=4, pret_bilet=150.0, lista_locuri_vandute=75 71 24 3, suma=600.0)
+[ERROR] 2022-01-04 13:08:12.364 [Thread-5] SpectacolRepository - 1500.0
+Vanzare(id=1, id_spectacol=3, data_vanzare=2022-01-04T13:07:48.065653, nr_bilete_vandute=4, pret_bilet=150.0, lista_locuri_vandute=21 18 56 44, suma=600.0)
+Vanzare(id=3, id_spectacol=3, data_vanzare=2022-01-04T13:07:52.068417, nr_bilete_vandute=2, pret_bilet=150.0, lista_locuri_vandute=94 32, suma=300.0)
+Vanzare(id=9, id_spectacol=3, data_vanzare=2022-01-04T13:08:10.050372, nr_bilete_vandute=4, pret_bilet=150.0, lista_locuri_vandute=81 98 35 51, suma=600.0)
 corect
-[ERROR] 2022-01-03 23:15:24.128 [Thread-5] SpectacolRepository - 
+[ERROR] 2022-01-04 13:08:12.364 [Thread-5] SpectacolRepository - 
 
 
 
-[ERROR] 2022-01-03 23:15:26.352 [Thread-5] SpectacolRepository - 1800.0
-Vanzare(id=8, id_spectacol=3, data_vanzare=2022-01-03T23:15:16.230468, nr_bilete_vandute=3, pret_bilet=150.0, lista_locuri_vandute=22 19 7, suma=450.0)
-Vanzare(id=9, id_spectacol=3, data_vanzare=2022-01-03T23:15:18.231995, nr_bilete_vandute=5, pret_bilet=150.0, lista_locuri_vandute=5 28 67 60 10, suma=750.0)
-Vanzare(id=10, id_spectacol=3, data_vanzare=2022-01-03T23:15:20.226286, nr_bilete_vandute=4, pret_bilet=150.0, lista_locuri_vandute=75 71 24 3, suma=600.0)
+[ERROR] 2022-01-04 13:08:14.563 [Thread-5] SpectacolRepository - 1000.0
+Vanzare(id=4, id_spectacol=1, data_vanzare=2022-01-04T13:07:54.067712, nr_bilete_vandute=3, pret_bilet=100.0, lista_locuri_vandute=80 73 39, suma=300.0)
+Vanzare(id=5, id_spectacol=1, data_vanzare=2022-01-04T13:07:56.065631, nr_bilete_vandute=5, pret_bilet=100.0, lista_locuri_vandute=4 47 44 95 1, suma=500.0)
+Vanzare(id=7, id_spectacol=1, data_vanzare=2022-01-04T13:08:04.046918, nr_bilete_vandute=1, pret_bilet=100.0, lista_locuri_vandute=5, suma=100.0)
+Vanzare(id=8, id_spectacol=1, data_vanzare=2022-01-04T13:08:08.040915, nr_bilete_vandute=1, pret_bilet=100.0, lista_locuri_vandute=19, suma=100.0)
 corect
-[ERROR] 2022-01-03 23:15:26.405 [pool-2-thread-5] SqlExceptionHelper - FATAL: sorry, too many clients already
-[ERROR] 2022-01-03 23:15:26.511 [Thread-5] SqlExceptionHelper - FATAL: sorry, too many clients already
-[ERROR] 2022-01-03 23:15:28.067 [pool-2-thread-6] SqlExceptionHelper - FATAL: sorry, too many clients already
-[ERROR] 2022-01-03 23:15:30.066 [pool-2-thread-7] SqlExceptionHelper - FATAL: sorry, too many clients already
-[ERROR] 2022-01-03 23:15:32.069 [pool-2-thread-8] SqlExceptionHelper - FATAL: sorry, too many clients already
-[ERROR] 2022-01-03 23:15:34.070 [pool-2-thread-9] SqlExceptionHelper - FATAL: sorry, too many clients already
-[ERROR] 2022-01-03 23:15:36.076 [pool-2-thread-10] SqlExceptionHelper - FATAL: sorry, too many clients already
-[ERROR] 2022-01-03 23:15:38.185 [pool-2-thread-1] SqlExceptionHelper - FATAL: sorry, too many clients already
-[ERROR] 2022-01-03 23:15:40.076 [pool-2-thread-2] SqlExceptionHelper - FATAL: sorry, too many clients already
+[ERROR] 2022-01-04 13:08:14.665 [Thread-5] SpectacolRepository - 1500.0
+Vanzare(id=1, id_spectacol=3, data_vanzare=2022-01-04T13:07:48.065653, nr_bilete_vandute=4, pret_bilet=150.0, lista_locuri_vandute=21 18 56 44, suma=600.0)
+Vanzare(id=3, id_spectacol=3, data_vanzare=2022-01-04T13:07:52.068417, nr_bilete_vandute=2, pret_bilet=150.0, lista_locuri_vandute=94 32, suma=300.0)
+Vanzare(id=9, id_spectacol=3, data_vanzare=2022-01-04T13:08:10.050372, nr_bilete_vandute=4, pret_bilet=150.0, lista_locuri_vandute=81 98 35 51, suma=600.0)
+corect
+[ERROR] 2022-01-04 13:08:14.766 [Thread-5] SpectacolRepository - 1600.0
+Vanzare(id=2, id_spectacol=2, data_vanzare=2022-01-04T13:07:50.138241, nr_bilete_vandute=1, pret_bilet=200.0, lista_locuri_vandute=77, suma=200.0)
+Vanzare(id=6, id_spectacol=2, data_vanzare=2022-01-04T13:08:02.054734, nr_bilete_vandute=3, pret_bilet=200.0, lista_locuri_vandute=52 80 78, suma=600.0)
+Vanzare(id=10, id_spectacol=2, data_vanzare=2022-01-04T13:08:14.161145, nr_bilete_vandute=4, pret_bilet=200.0, lista_locuri_vandute=82 92 58 28, suma=800.0)
+corect
+[ERROR] 2022-01-04 13:08:14.766 [Thread-5] SpectacolRepository - 
+
+
+
+[ERROR] 2022-01-04 13:08:16.096 [pool-2-thread-5] SqlExceptionHelper - FATAL: sorry, too many clients already
+[ERROR] 2022-01-04 13:08:16.810 [Thread-5] SqlExceptionHelper - FATAL: sorry, too many clients already
+[ERROR] 2022-01-04 13:08:17.890 [pool-2-thread-6] SqlExceptionHelper - FATAL: sorry, too many clients already
+[ERROR] 2022-01-04 13:08:19.889 [pool-2-thread-7] SqlExceptionHelper - FATAL: sorry, too many clients already
+[ERROR] 2022-01-04 13:08:21.891 [pool-2-thread-8] SqlExceptionHelper - FATAL: sorry, too many clients already
+[ERROR] 2022-01-04 13:08:23.893 [pool-2-thread-9] SqlExceptionHelper - FATAL: sorry, too many clients already
+[ERROR] 2022-01-04 13:08:25.995 [pool-2-thread-10] SqlExceptionHelper - FATAL: sorry, too many clients already
+[ERROR] 2022-01-04 13:08:27.896 [pool-2-thread-1] SqlExceptionHelper - FATAL: sorry, too many clients already
+[ERROR] 2022-01-04 13:08:29.896 [pool-2-thread-2] SqlExceptionHelper - FATAL: sorry, too many clients already
+[ERROR] 2022-01-04 13:08:31.997 [pool-2-thread-3] SqlExceptionHelper - FATAL: sorry, too many clients already
+[ERROR] 2022-01-04 13:08:33.904 [pool-2-thread-4] SqlExceptionHelper - FATAL: sorry, too many clients already
+[ERROR] 2022-01-04 13:08:35.899 [pool-2-thread-5] SqlExceptionHelper - FATAL: sorry, too many clients already
+[ERROR] 2022-01-04 13:08:37.899 [pool-2-thread-6] SqlExceptionHelper - FATAL: sorry, too many clients already
+[ERROR] 2022-01-04 13:08:39.900 [pool-2-thread-7] SqlExceptionHelper - FATAL: sorry, too many clients already
+[ERROR] 2022-01-04 13:08:41.900 [pool-2-thread-8] SqlExceptionHelper - FATAL: sorry, too many clients already
+[ERROR] 2022-01-04 13:08:43.904 [pool-2-thread-9] SqlExceptionHelper - FATAL: sorry, too many clients already
+[ERROR] 2022-01-04 13:08:45.905 [pool-2-thread-10] SqlExceptionHelper - FATAL: sorry, too many clients already
+[ERROR] 2022-01-04 13:08:55.364 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:08:55.533 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:08:55.714 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:08:55.714 [Thread-5] SpectacolRepository - 
+
+
+
+[ERROR] 2022-01-04 13:08:58.004 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:08:58.247 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:08:58.403 [Thread-5] SpectacolRepository - 0.0
+Vanzare(id=1, id_spectacol=3, data_vanzare=2022-01-04T13:08:58.011154, nr_bilete_vandute=1, pret_bilet=150.0, lista_locuri_vandute=87, suma=150.0)
+incorect,0.000000!=150.000000
+0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000!=0000000000000000000000000000000000000000000000000000000000000000000000000000000000000001000000000000
+[ERROR] 2022-01-04 13:08:58.403 [Thread-5] SpectacolRepository - 
+
+
+
+[ERROR] 2022-01-04 13:09:00.638 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:09:00.755 [Thread-5] SpectacolRepository - 150.0
+Vanzare(id=1, id_spectacol=3, data_vanzare=2022-01-04T13:08:58.011154, nr_bilete_vandute=1, pret_bilet=150.0, lista_locuri_vandute=87, suma=150.0)
+corect
+[ERROR] 2022-01-04 13:09:00.868 [Thread-5] SpectacolRepository - 500.0
+Vanzare(id=2, id_spectacol=1, data_vanzare=2022-01-04T13:08:59.976822, nr_bilete_vandute=5, pret_bilet=100.0, lista_locuri_vandute=9 23 67 70 8, suma=500.0)
+corect
+[ERROR] 2022-01-04 13:09:00.868 [Thread-5] SpectacolRepository - 
+
+
+
+[ERROR] 2022-01-04 13:09:03.109 [Thread-5] SpectacolRepository - 750.0
+Vanzare(id=1, id_spectacol=3, data_vanzare=2022-01-04T13:08:58.011154, nr_bilete_vandute=1, pret_bilet=150.0, lista_locuri_vandute=87, suma=150.0)
+Vanzare(id=3, id_spectacol=3, data_vanzare=2022-01-04T13:09:01.941339, nr_bilete_vandute=4, pret_bilet=150.0, lista_locuri_vandute=60 37 58 11, suma=600.0)
+corect
+[ERROR] 2022-01-04 13:09:03.221 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:09:03.433 [Thread-5] SpectacolRepository - 500.0
+Vanzare(id=2, id_spectacol=1, data_vanzare=2022-01-04T13:08:59.976822, nr_bilete_vandute=5, pret_bilet=100.0, lista_locuri_vandute=9 23 67 70 8, suma=500.0)
+corect
+[ERROR] 2022-01-04 13:09:03.433 [Thread-5] SpectacolRepository - 
+
+
+
+[ERROR] 2022-01-04 13:09:05.765 [Thread-5] SpectacolRepository - 750.0
+Vanzare(id=1, id_spectacol=3, data_vanzare=2022-01-04T13:08:58.011154, nr_bilete_vandute=1, pret_bilet=150.0, lista_locuri_vandute=87, suma=150.0)
+Vanzare(id=3, id_spectacol=3, data_vanzare=2022-01-04T13:09:01.941339, nr_bilete_vandute=4, pret_bilet=150.0, lista_locuri_vandute=60 37 58 11, suma=600.0)
+corect
+[ERROR] 2022-01-04 13:09:05.895 [Thread-5] SpectacolRepository - 1000.0
+Vanzare(id=4, id_spectacol=2, data_vanzare=2022-01-04T13:09:03.954798, nr_bilete_vandute=5, pret_bilet=200.0, lista_locuri_vandute=41 60 23 96 78, suma=1000.0)
+corect
+[ERROR] 2022-01-04 13:09:06.030 [Thread-5] SpectacolRepository - 500.0
+Vanzare(id=2, id_spectacol=1, data_vanzare=2022-01-04T13:08:59.976822, nr_bilete_vandute=5, pret_bilet=100.0, lista_locuri_vandute=9 23 67 70 8, suma=500.0)
+corect
+[ERROR] 2022-01-04 13:09:06.030 [Thread-5] SpectacolRepository - 
+
+
+
+[ERROR] 2022-01-04 13:09:08.288 [Thread-5] SpectacolRepository - 750.0
+Vanzare(id=1, id_spectacol=3, data_vanzare=2022-01-04T13:08:58.011154, nr_bilete_vandute=1, pret_bilet=150.0, lista_locuri_vandute=87, suma=150.0)
+Vanzare(id=3, id_spectacol=3, data_vanzare=2022-01-04T13:09:01.941339, nr_bilete_vandute=4, pret_bilet=150.0, lista_locuri_vandute=60 37 58 11, suma=600.0)
+corect
+[ERROR] 2022-01-04 13:09:08.593 [Thread-5] SpectacolRepository - 1000.0
+Vanzare(id=2, id_spectacol=1, data_vanzare=2022-01-04T13:08:59.976822, nr_bilete_vandute=5, pret_bilet=100.0, lista_locuri_vandute=9 23 67 70 8, suma=500.0)
+Vanzare(id=5, id_spectacol=1, data_vanzare=2022-01-04T13:09:05.978139, nr_bilete_vandute=5, pret_bilet=100.0, lista_locuri_vandute=25 77 66 19 63, suma=500.0)
+corect
+[ERROR] 2022-01-04 13:09:08.713 [Thread-5] SpectacolRepository - 2000.0
+Vanzare(id=4, id_spectacol=2, data_vanzare=2022-01-04T13:09:03.954798, nr_bilete_vandute=5, pret_bilet=200.0, lista_locuri_vandute=41 60 23 96 78, suma=1000.0)
+Vanzare(id=6, id_spectacol=2, data_vanzare=2022-01-04T13:09:08.043539, nr_bilete_vandute=5, pret_bilet=200.0, lista_locuri_vandute=93 52 55 43 36, suma=1000.0)
+corect
+[ERROR] 2022-01-04 13:09:08.714 [Thread-5] SpectacolRepository - 
+
+
+
+[ERROR] 2022-01-04 13:09:11.047 [Thread-5] SpectacolRepository - 750.0
+Vanzare(id=1, id_spectacol=3, data_vanzare=2022-01-04T13:08:58.011154, nr_bilete_vandute=1, pret_bilet=150.0, lista_locuri_vandute=87, suma=150.0)
+Vanzare(id=3, id_spectacol=3, data_vanzare=2022-01-04T13:09:01.941339, nr_bilete_vandute=4, pret_bilet=150.0, lista_locuri_vandute=60 37 58 11, suma=600.0)
+corect
+[ERROR] 2022-01-04 13:09:11.156 [Thread-5] SpectacolRepository - 1000.0
+Vanzare(id=2, id_spectacol=1, data_vanzare=2022-01-04T13:08:59.976822, nr_bilete_vandute=5, pret_bilet=100.0, lista_locuri_vandute=9 23 67 70 8, suma=500.0)
+Vanzare(id=5, id_spectacol=1, data_vanzare=2022-01-04T13:09:05.978139, nr_bilete_vandute=5, pret_bilet=100.0, lista_locuri_vandute=25 77 66 19 63, suma=500.0)
+corect
+[ERROR] 2022-01-04 13:09:11.260 [Thread-5] SpectacolRepository - 2600.0
+Vanzare(id=4, id_spectacol=2, data_vanzare=2022-01-04T13:09:03.954798, nr_bilete_vandute=5, pret_bilet=200.0, lista_locuri_vandute=41 60 23 96 78, suma=1000.0)
+Vanzare(id=6, id_spectacol=2, data_vanzare=2022-01-04T13:09:08.043539, nr_bilete_vandute=5, pret_bilet=200.0, lista_locuri_vandute=93 52 55 43 36, suma=1000.0)
+Vanzare(id=7, id_spectacol=2, data_vanzare=2022-01-04T13:09:09.945863, nr_bilete_vandute=3, pret_bilet=200.0, lista_locuri_vandute=47 1 97, suma=600.0)
+corect
+[ERROR] 2022-01-04 13:09:11.260 [Thread-5] SpectacolRepository - 
+
+
+
+[ERROR] 2022-01-04 13:09:13.484 [Thread-5] SpectacolRepository - 1000.0
+Vanzare(id=2, id_spectacol=1, data_vanzare=2022-01-04T13:08:59.976822, nr_bilete_vandute=5, pret_bilet=100.0, lista_locuri_vandute=9 23 67 70 8, suma=500.0)
+Vanzare(id=5, id_spectacol=1, data_vanzare=2022-01-04T13:09:05.978139, nr_bilete_vandute=5, pret_bilet=100.0, lista_locuri_vandute=25 77 66 19 63, suma=500.0)
+corect
+[ERROR] 2022-01-04 13:09:13.586 [Thread-5] SpectacolRepository - 2600.0
+Vanzare(id=4, id_spectacol=2, data_vanzare=2022-01-04T13:09:03.954798, nr_bilete_vandute=5, pret_bilet=200.0, lista_locuri_vandute=41 60 23 96 78, suma=1000.0)
+Vanzare(id=6, id_spectacol=2, data_vanzare=2022-01-04T13:09:08.043539, nr_bilete_vandute=5, pret_bilet=200.0, lista_locuri_vandute=93 52 55 43 36, suma=1000.0)
+Vanzare(id=7, id_spectacol=2, data_vanzare=2022-01-04T13:09:09.945863, nr_bilete_vandute=3, pret_bilet=200.0, lista_locuri_vandute=47 1 97, suma=600.0)
+corect
+[ERROR] 2022-01-04 13:09:13.685 [Thread-5] SpectacolRepository - 1050.0
+Vanzare(id=1, id_spectacol=3, data_vanzare=2022-01-04T13:08:58.011154, nr_bilete_vandute=1, pret_bilet=150.0, lista_locuri_vandute=87, suma=150.0)
+Vanzare(id=3, id_spectacol=3, data_vanzare=2022-01-04T13:09:01.941339, nr_bilete_vandute=4, pret_bilet=150.0, lista_locuri_vandute=60 37 58 11, suma=600.0)
+Vanzare(id=8, id_spectacol=3, data_vanzare=2022-01-04T13:09:11.934042, nr_bilete_vandute=2, pret_bilet=150.0, lista_locuri_vandute=18 41, suma=300.0)
+corect
+[ERROR] 2022-01-04 13:09:13.685 [Thread-5] SpectacolRepository - 
+
+
+
+[ERROR] 2022-01-04 13:09:23.494 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:09:23.649 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:09:23.791 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:09:23.792 [Thread-5] SpectacolRepository - 
+
+
+
+[ERROR] 2022-01-04 13:09:26.106 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:09:26.265 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:09:26.451 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:09:26.451 [Thread-5] SpectacolRepository - 
+
+
+
+[ERROR] 2022-01-04 13:09:28.825 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:09:29.028 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:09:29.221 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:09:29.221 [Thread-5] SpectacolRepository - 
+
+
+
+[ERROR] 2022-01-04 13:09:31.444 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:09:31.549 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:09:31.666 [Thread-5] SpectacolRepository - 400.0
+Vanzare(id=1, id_spectacol=1, data_vanzare=2022-01-04T13:09:30.461746, nr_bilete_vandute=4, pret_bilet=100.0, lista_locuri_vandute=61 59 87 10, suma=400.0)
+corect
+[ERROR] 2022-01-04 13:09:31.667 [Thread-5] SpectacolRepository - 
+
+
+
+[ERROR] 2022-01-04 13:09:34.001 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:09:34.109 [Thread-5] SpectacolRepository - 400.0
+Vanzare(id=1, id_spectacol=1, data_vanzare=2022-01-04T13:09:30.461746, nr_bilete_vandute=4, pret_bilet=100.0, lista_locuri_vandute=61 59 87 10, suma=400.0)
+corect
+[ERROR] 2022-01-04 13:09:34.216 [Thread-5] SpectacolRepository - 600.0
+Vanzare(id=2, id_spectacol=2, data_vanzare=2022-01-04T13:09:32.436116, nr_bilete_vandute=3, pret_bilet=200.0, lista_locuri_vandute=94 86 15, suma=600.0)
+corect
+[ERROR] 2022-01-04 13:09:34.216 [Thread-5] SpectacolRepository - 
+
+
+
+[ERROR] 2022-01-04 13:09:36.546 [Thread-5] SpectacolRepository - 400.0
+Vanzare(id=1, id_spectacol=1, data_vanzare=2022-01-04T13:09:30.461746, nr_bilete_vandute=4, pret_bilet=100.0, lista_locuri_vandute=61 59 87 10, suma=400.0)
+corect
+[ERROR] 2022-01-04 13:09:36.676 [Thread-5] SpectacolRepository - 600.0
+Vanzare(id=2, id_spectacol=2, data_vanzare=2022-01-04T13:09:32.436116, nr_bilete_vandute=3, pret_bilet=200.0, lista_locuri_vandute=94 86 15, suma=600.0)
+corect
+[ERROR] 2022-01-04 13:09:36.790 [Thread-5] SpectacolRepository - 450.0
+Vanzare(id=3, id_spectacol=3, data_vanzare=2022-01-04T13:09:34.447183, nr_bilete_vandute=3, pret_bilet=150.0, lista_locuri_vandute=42 9 20, suma=450.0)
+corect
+[ERROR] 2022-01-04 13:09:36.790 [Thread-5] SpectacolRepository - 
+
+
+
+[ERROR] 2022-01-04 13:11:05.120 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:11:05.291 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:11:05.534 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:11:05.534 [Thread-5] SpectacolRepository - 
+
+
+
+[ERROR] 2022-01-04 13:11:07.939 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:11:08.141 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:11:08.410 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:11:08.411 [Thread-5] SpectacolRepository - 
+
+
+
+[ERROR] 2022-01-04 13:11:10.908 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:11:11.162 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:11:11.317 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:11:11.317 [Thread-5] SpectacolRepository - 
+
+
+
+[ERROR] 2022-01-04 13:11:13.674 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:11:13.799 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:11:13.924 [Thread-5] SpectacolRepository - 200.0
+Vanzare(id=1, id_spectacol=2, data_vanzare=2022-01-04T13:11:11.809096, nr_bilete_vandute=1, pret_bilet=200.0, lista_locuri_vandute=84, suma=200.0)
+corect
+[ERROR] 2022-01-04 13:11:13.924 [Thread-5] SpectacolRepository - 
+
+
+
+[ERROR] 2022-01-04 13:11:16.145 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:11:16.255 [Thread-5] SpectacolRepository - 800.0
+Vanzare(id=1, id_spectacol=2, data_vanzare=2022-01-04T13:11:11.809096, nr_bilete_vandute=1, pret_bilet=200.0, lista_locuri_vandute=84, suma=200.0)
+Vanzare(id=2, id_spectacol=2, data_vanzare=2022-01-04T13:11:13.918331, nr_bilete_vandute=3, pret_bilet=200.0, lista_locuri_vandute=44 88 30, suma=600.0)
+corect
+[ERROR] 2022-01-04 13:11:16.363 [Thread-5] SpectacolRepository - 300.0
+Vanzare(id=3, id_spectacol=3, data_vanzare=2022-01-04T13:11:15.791351, nr_bilete_vandute=2, pret_bilet=150.0, lista_locuri_vandute=5 46, suma=300.0)
+corect
+[ERROR] 2022-01-04 13:11:16.363 [Thread-5] SpectacolRepository - 
+
+
+
+[ERROR] 2022-01-04 13:11:36.666 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:11:37.008 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:11:37.223 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:11:37.224 [Thread-5] SpectacolRepository - 
+
+
+
+[ERROR] 2022-01-04 13:11:39.821 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:11:40.115 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:11:40.313 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:11:40.314 [Thread-5] SpectacolRepository - 
+
+
+
+[ERROR] 2022-01-04 13:11:42.832 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:11:42.995 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:11:43.266 [Thread-5] SpectacolRepository - 300.0
+Vanzare(id=1, id_spectacol=1, data_vanzare=2022-01-04T13:11:41.678041, nr_bilete_vandute=3, pret_bilet=100.0, lista_locuri_vandute=84 1 62, suma=300.0)
+corect
+[ERROR] 2022-01-04 13:11:43.266 [Thread-5] SpectacolRepository - 
+
+
+
+[ERROR] 2022-01-04 13:11:45.530 [Thread-5] SpectacolRepository - 0.0
+corect
+[ERROR] 2022-01-04 13:11:45.724 [Thread-5] SpectacolRepository - 300.0
+Vanzare(id=1, id_spectacol=1, data_vanzare=2022-01-04T13:11:41.678041, nr_bilete_vandute=3, pret_bilet=100.0, lista_locuri_vandute=84 1 62, suma=300.0)
+corect
+[ERROR] 2022-01-04 13:11:45.870 [Thread-5] SpectacolRepository - 300.0
+Vanzare(id=2, id_spectacol=3, data_vanzare=2022-01-04T13:11:43.781415, nr_bilete_vandute=2, pret_bilet=150.0, lista_locuri_vandute=37 57, suma=300.0)
+corect
+[ERROR] 2022-01-04 13:11:45.870 [Thread-5] SpectacolRepository - 
+
+
+
+[ERROR] 2022-01-04 13:11:48.109 [Thread-5] SpectacolRepository - 300.0
+Vanzare(id=2, id_spectacol=3, data_vanzare=2022-01-04T13:11:43.781415, nr_bilete_vandute=2, pret_bilet=150.0, lista_locuri_vandute=37 57, suma=300.0)
+corect
+[ERROR] 2022-01-04 13:11:48.319 [Thread-5] SpectacolRepository - 800.0
+Vanzare(id=3, id_spectacol=2, data_vanzare=2022-01-04T13:11:45.724215, nr_bilete_vandute=1, pret_bilet=200.0, lista_locuri_vandute=56, suma=200.0)
+Vanzare(id=4, id_spectacol=2, data_vanzare=2022-01-04T13:11:46.128138, nr_bilete_vandute=3, pret_bilet=200.0, lista_locuri_vandute=43 1 79, suma=600.0)
+corect
+[ERROR] 2022-01-04 13:11:48.420 [Thread-5] SpectacolRepository - 500.0
+Vanzare(id=1, id_spectacol=1, data_vanzare=2022-01-04T13:11:41.678041, nr_bilete_vandute=3, pret_bilet=100.0, lista_locuri_vandute=84 1 62, suma=300.0)
+Vanzare(id=5, id_spectacol=1, data_vanzare=2022-01-04T13:11:47.607696, nr_bilete_vandute=2, pret_bilet=100.0, lista_locuri_vandute=15 56, suma=200.0)
+corect
+[ERROR] 2022-01-04 13:11:48.420 [Thread-5] SpectacolRepository - 
+
+
+

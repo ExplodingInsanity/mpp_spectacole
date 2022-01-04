@@ -12,7 +12,7 @@ import java.util.concurrent.*;
 public class Service implements IService {
     ArrayList<IObserver> clients = new ArrayList<IObserver>();
     boolean isStopped = false;
-    int timeoutMs = 30000;
+    int timeoutMs = 15000;
     int checkInterval = 2000;
     HashSet<Integer> ids = new HashSet<>();
     Long startTime = System.currentTimeMillis();
